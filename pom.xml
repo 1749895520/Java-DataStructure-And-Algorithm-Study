@@ -6,7 +6,14 @@
 
     <groupId>org.example</groupId>
     <artifactId>DataStructureAndAlgorithm</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>算法第四版-答案</module>
+        <module>算法第四版-学习</module>
+        <module>算法模板-Java</module>
+        <module>算法学习汇总-Java</module>
+    </modules>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
